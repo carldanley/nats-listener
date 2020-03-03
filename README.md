@@ -1,5 +1,7 @@
 # nats-listener
 
+[![Build Status](https://ci.encrypted.place/api/badges/carldanley/nats-listener/status.svg)](https://ci.encrypted.place/carldanley/nats-listener)
+
 > A NATS client that can be configured to listen to subjects and output incoming messages.
 
 ## Environment Variables
