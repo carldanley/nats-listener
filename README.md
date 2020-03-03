@@ -1,5 +1,7 @@
 # nats-listener
 
+> A NATS client that can be configured to listen to subjects and output incoming messages.
+
 ## Environment Variables
 
 | Variable | Description | Default |
